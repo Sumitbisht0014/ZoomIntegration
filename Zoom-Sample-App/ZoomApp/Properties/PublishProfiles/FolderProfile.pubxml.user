@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Workspace\Docs\Zoom\ZoomApp\ZoomApp\bin\Publish</_PublishTargetUrl>
+    <History>True|2021-12-30T05:58:53.3695146Z;True|2021-12-29T15:43:43.8780542+05:30;True|2021-12-29T14:48:57.0994009+05:30;True|2021-12-29T13:02:45.2279296+05:30;True|2021-12-29T12:42:41.7609512+05:30;True|2021-12-29T12:29:57.6447243+05:30;True|2021-12-29T11:59:39.8058495+05:30;</History>
+  </PropertyGroup>
+</Project>
